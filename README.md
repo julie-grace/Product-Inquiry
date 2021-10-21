@@ -53,25 +53,21 @@ After an inquiry submitted, an email notification send to customer contains a li
 
 a page where they can view their inquiry.
 
-## 3.3 Email notification to customer
-
-After an inquiry submitted, an email notification send to customer.
-
-## 3.4 Email notification to admin
+## 3.3 Email notification to admin
 
 After an inquiry submitted, an email notification send to admin.
 
-## 3.5 Login
+## 3.4 Login
 
 This page only intended for admin to access all submitted data.
 
-## 3.6 List of inquiries
+## 3.5 List of inquiries
 
 After logging in, all submitted inquiries will be shown in a table pagination.
 
 When a new inquiry submitted, it will be pushed to the table right away, so admin don't have to refresh the page.
 
 
-## 3.7 Inquiry detail
+## 3.6 Inquiry detail
 
 That image will be shown at inquiry detail.
