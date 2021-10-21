@@ -45,6 +45,8 @@ Implement a mechanism to prevent this on server side.
 
 If the inquiry contains reference to a website, that website will be fetched by our system and save as an image.
 
+![Submit page wireframe](./submit_form.png)
+
 ## 3.2 Email notification to customer
 
 After an inquiry submitted, an email notification send to customer contains a link to 
