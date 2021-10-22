@@ -59,17 +59,17 @@ a page where they can view their inquiry.
 
 * We don't want to leak our data to the world, so instead of giving out the inquiry identifier use a unique token associated to that inquiry and only valid for 1 month.
 
-[Customer notification](./email_customer.png)
+![Customer notification](./email_customer.png)
 
 ## 3.3 View inquiry as customer
 
 *Bonus point for implementing personalized recommendation*
 
-[View inquiry as customer](./detail_customer.png)
+![view inquiry as customer](./detail_customer.png)
 
 ## 3.4 Email notification to admin
 
-[Admin notification](./email_admin.png)
+![Admin notification](./email_admin.png)
 
 ## 3.4 Login
 
@@ -77,7 +77,7 @@ This page only intended for admin to access all submitted data.
 
 * After after logging in, user will be directed to their intended page or home.
 
-[Admin log in](./login.png)
+![Admin log in](./login.png)
 
 ## 3.5 List of inquiries
 
@@ -95,7 +95,7 @@ After logging in, all submitted inquiries will be shown in a table pagination.
 
 * You can switch pagination by clicking on the links below the list
 
-[Inquiry table](./inquiries_list.png)
+![Inquiry table](./inquiries_list.png)
 
 
 ## 3.6 Inquiry detail
@@ -106,4 +106,4 @@ That image will be shown at inquiry detail.
 
 * A click on a reference image will show a pop up with that image inside.
 
-[View inquiry as admin](./detail_admin.png)
+![View inquiry as admin](./detail_admin.png)
