@@ -71,7 +71,7 @@ a page where they can view their inquiry.
 
 ![Admin notification](./email_admin.png)
 
-## 3.4 Login
+## 3.5 Login
 
 This page only intended for admin to access all submitted data.
 
@@ -79,7 +79,7 @@ This page only intended for admin to access all submitted data.
 
 ![Admin log in](./login.png)
 
-## 3.5 List of inquiries
+## 3.6 List of inquiries
 
 After logging in, all submitted inquiries will be shown in a table pagination.
 
@@ -98,7 +98,7 @@ After logging in, all submitted inquiries will be shown in a table pagination.
 ![Inquiry table](./inquiries_list.png)
 
 
-## 3.6 Inquiry detail
+## 3.7 Inquiry detail
 
 That image will be shown at inquiry detail.
 
