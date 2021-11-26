@@ -38,7 +38,7 @@ Strive to create a testable frontend.
 
 ## 3.1 Inquiry page
 
-The root page of the page is the inquiry page.
+The root page of the web is the inquiry page.
 
 * A customer can submit an inquiry right away without have to log in
 
@@ -98,7 +98,7 @@ After logging in, all submitted inquiries will be shown in a table pagination.
 ![Inquiry table](./inquiries_list.png)
 
 
-## 3.7 Inquiry detail
+## 3.7 View inquiry as admin
 
 That image will be shown at inquiry detail.
 
